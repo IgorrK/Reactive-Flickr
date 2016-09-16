@@ -1,0 +1,6 @@
+framework module Pods_Reactive_Flickr {
+  umbrella header "Pods-Reactive Flickr-umbrella.h"
+
+  export *
+  module * { export * }
+}
